@@ -1,0 +1,5 @@
+week 1 - notebook on OpenAI gym environment and some basics python.
+week 1 - Bellman, MDP, Dynamic programming, policy evaluation (for illustration)
+
+week 2 - add the links
+
