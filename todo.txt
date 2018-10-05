@@ -3,3 +3,27 @@ week 1 - Bellman, MDP, Dynamic programming, policy evaluation (for illustration)
 
 week 2 - add the links
 
+week 1
+    001 MDP/Bellman equations
+    002 OpenAI Gym (?)
+week 2
+    001 Frozenlakev0 (Dynamic Programming)
+week 3
+    001 Monte Carlo
+    002 Q learning
+week 4
+    001 Model free
+
+
+http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/Render%20OpenAI%20gym%20as%20GIF.ipynb
+
+https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa
+
+https://en.wikipedia.org/wiki/Markov_decision_process#Policy_iteration
+
+https://github.com/dennybritz/reinforcement-learning/blob/master/DP/Value%20Iteration%20Solution.ipynb
+
+https://github.com/kk1694/rl_course/blob/master/rl_notes_2.ipynb
+https://krisztiankovacs.com/reinforcement_learning/2018/09/21/rl-notes-2.html
+
+https://joshgreaves.com/reinforcement-learning/

@@ -1,0 +1,11 @@
+01
+--
+What is RL?
+MDP
+Bellman equations
+
+02
+--
+How to use OpenAI Gym?
+Testing with
+Create an environment (Agent anatomy) for deterministic GridWorld(https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/blob/master/Chapter02/01_agent_anatomy.py)

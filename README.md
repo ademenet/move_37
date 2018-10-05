@@ -1,6 +1,16 @@
-# move_37
+# Learn Reinforcement Learning
 
-Siraj's course about [reinforcement learning](https://www.theschool.ai/courses/move-37-course/).
+This repository aims to provide some exercises based on Siraj's curriculum about [reinforcement learning](https://www.theschool.ai/courses/move-37-course/). We will follow the same path but the approach is quite different because we will have a more practical approach to things.
+
+## Requirements
+
+### Knowledges
+
+- Basic Python syntax knowledge.
+
+### Environment
+
+I recommand you to install Anaconda 3 and create your environment.
 
 ## Curriculum
 
